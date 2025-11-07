@@ -11,7 +11,7 @@ A aplicação permite que um homem e uma mulher escrevam o ponto de vista de cad
 - Campo para o **ponto de vista da mulher**
 - IA gera um **veredito conciliador**
 - **Tema claro/escuro** ajustável na interface
-- Processamento **100% local** (não depende de internet)
+- Processamento **100% local**
 - **Privacidade total** — nada é enviado para servidores externos
 
 ---
